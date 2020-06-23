@@ -1,7 +1,12 @@
-import React, { Component } from "react"
+import React from "react"
+import Layout from "../components/Layout"
 
-export default class tours extends Component {
-  render() {
-    return <div>dsfewf</div>
-  }
+const tours = () => {
+  return (
+    <Layout>
+      <h1>Tours Page</h1>
+    </Layout>
+  )
 }
+
+export default tours
