@@ -20,8 +20,8 @@
 .nav-links {
   list-style-type: none;
   transition: var(--mainTransition);
-  height: 0;
-  overflow: hidden;
+  /* height: 0; */
+  /* overflow: hidden; */
 }
 .show-nav {
   height: 216px;
