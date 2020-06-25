@@ -11,5 +11,15 @@ module.exports = {
       "Explore awesome worldwide tours & discover what makes each of them unique. Forget your daily routine and say yes to adventure!",
     author: "Abhinav Sharma",
   },
-  plugins: [`gatsby-plugin-styled-components`, `gatsby-plugin-sass`],
+  plugins: [
+    `gatsby-plugin-styled-components`,
+    `gatsby-plugin-sass`,
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images`,
+        path: `${__dirname}/src/images/`,
+      },
+    },
+  ],
 }
