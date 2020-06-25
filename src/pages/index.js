@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 import Layout from "../components/Layout"
 import SimpleHero from "../components/SimpleHero"
 import Banner from "../components/Banner"
+import About from "../components/Home/About"
 
 const home = () => {
   return (
@@ -18,6 +19,7 @@ const home = () => {
             </Link>
           </Banner>
         </SimpleHero>
+        <About />
       </Layout>
     </>
   )
