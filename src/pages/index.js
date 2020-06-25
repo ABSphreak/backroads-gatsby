@@ -1,15 +1,23 @@
 import React from "react"
 import { Link } from "gatsby"
 import Layout from "../components/Layout"
-import { FaAdobe } from "react-icons/fa"
+import SimpleHero from "../components/SimpleHero"
+import Banner from "../components/Banner"
 
 const home = () => {
   return (
     <>
-      {/* Using children prop in Layout to render */}
       <Layout>
-        <div>BACKROADS</div>
-        <FaAdobe />
+        <SimpleHero>
+          <Banner
+            title="continue exploring"
+            info="Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, natus."
+          >
+            <Link to="/tours" className="btn-white">
+              explore tours
+            </Link>
+          </Banner>
+        </SimpleHero>
       </Layout>
     </>
   )
