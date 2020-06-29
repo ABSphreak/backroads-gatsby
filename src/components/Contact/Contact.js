@@ -1,7 +1,7 @@
 import React from "react"
 import Title from "../Title"
 import styles from "../../css/contact.module.css"
-
+/* eslint-disable */
 const Contact = () => {
   return (
     <section className={styles.contact}>
