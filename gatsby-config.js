@@ -13,6 +13,9 @@ module.exports = {
     description:
       "Explore awesome worldwide tours & discover what makes each of them unique. Forget your daily routine and say yes to adventure!",
     author: "Abhinav Sharma",
+    twitterUsername: "@ABSphreak",
+    image: "/defaultBcg.jpeg",
+    siteUrl: "https://abs-backroads.netlify.app",
   },
   plugins: [
     `gatsby-plugin-styled-components`,
@@ -35,5 +38,6 @@ module.exports = {
       },
     },
     `gatsby-plugin-playground`,
+    `gatsby-plugin-react-helmet`,
   ],
 }
