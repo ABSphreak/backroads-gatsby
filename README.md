@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://abs-backroads.netlify.app">
-    <img alt="BackRoads" src="/src/images/logo.svg" width="60" />
+    <img alt="BackRoads" src="/src/images/logo.svg"/>
   </a>
 </p>
 <h1 align="center">
