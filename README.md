@@ -7,7 +7,8 @@
   BackRoads Tour site Project<br>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/ABSphreak/backroads-gatsby?color=blueviolet&style=flat-square">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ABSphreak/backroads-gatsby?color=ff0054&style=flat-square">
-  <img alt="GitHub" src="https://img.shields.io/github/license/ABSphreak/backroads-gatsby?color=55a630&style=flat-square">
+  <img alt="License" src="https://img.shields.io/github/license/ABSphreak/backroads-gatsby?color=55a630&style=flat-square">
+  <a href="https://abs-backroads.netlify.app"><img alt="deployed on" src="https://img.shields.io/static/v1?style=flat-square&logo=netlify&label=demo&message=Netlify&color=00C7B7"></a>
 </h1>
 
 BackRoads is a static site created using GatsbyJS, GraphQL, Contentful (Headless CMS), etc. See [What's inside?](#-whats-inside)
