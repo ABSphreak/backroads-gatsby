@@ -52,29 +52,29 @@ _See the **demos** at → [Netlify](https://abs-backroads.netlify.app) & [Render
 A look at [`package.json`](/package.json)
 
 ```shell
-  ┌⎯ @contentful/rich-text-react-renderer
-  ├⎯ babel-plugin-styled-components
-  ├⎯ bootstrap
-  ├⎯ dotenv
-  ├⎯ gatsby
-  ├⎯ gatsby-background-image
-  ├⎯ gatsby-image
-  ├⎯ gatsby-plugin-playground
-  ├⎯ gatsby-plugin-react-helmet
-  ├⎯ gatsby-plugin-robots-txt
-  ├⎯ gatsby-plugin-sass
-  ├⎯ gatsby-plugin-sharp
-  ├⎯ gatsby-plugin-sitemap
-  ├⎯ gatsby-plugin-styled-components
-  ├⎯ gatsby-plugin-transition-link
-  ├⎯ gatsby-source-contentful
-  ├⎯ gatsby-source-filesystem
-  ├⎯ gatsby-transformer-sharp
-  ├⎯ gsap
-  ├⎯ node-sass
-  ├⎯ react
-  ├⎯ react-dom
-  ├⎯ react-helmet
-  ├⎯ react-icons
-  └⎯ styled-components
+  ┌── @contentful/rich-text-react-renderer
+  ├── babel-plugin-styled-components
+  ├── bootstrap
+  ├── dotenv
+  ├── gatsby
+  ├── gatsby-background-image
+  ├── gatsby-image
+  ├── gatsby-plugin-playground
+  ├── gatsby-plugin-react-helmet
+  ├── gatsby-plugin-robots-txt
+  ├── gatsby-plugin-sass
+  ├── gatsby-plugin-sharp
+  ├── gatsby-plugin-sitemap
+  ├── gatsby-plugin-styled-components
+  ├── gatsby-plugin-transition-link
+  ├── gatsby-source-contentful
+  ├── gatsby-source-filesystem
+  ├── gatsby-transformer-sharp
+  ├── gsap
+  ├── node-sass
+  ├── react
+  ├── react-dom
+  ├── react-helmet
+  ├── react-icons
+  └── styled-components
 ```
