@@ -33,7 +33,7 @@
     "gatsby-source-filesystem": "^2.3.14",
     "gatsby-transformer-sharp": "^2.5.7",
     "gsap": "^3.3.4",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.12",
     "react-dom": "^16.13.1",
     "react-helmet": "^6.1.0",
